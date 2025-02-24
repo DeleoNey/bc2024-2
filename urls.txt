@@ -10,3 +10,4 @@ https://bank.gov.ua/NBU_BankInfo/get_data_branch?date=20240901&period=m&json
 https://bank.gov.ua/NBU_BankInfo/get_data_branch?date=20240901&period=m&json
 >>>>>>> e9b8f07 (Додано URL запиту та JSON-файл з даними про доходи та витрати банків за вересень 2024 року)
 https://bank.gov.ua/NBU_BankInfo/get_data_branch?date=20240901&period=m&json
+https://bank.gov.ua/NBU_BankInfo/get_data_branch?date=20240901&period=m&json
